@@ -7,13 +7,16 @@ html, body{
     font-family: 'open sans', sans-serif;
 }
 .navbar{
+    display: flex;
+    justify-content: flex-start;
     background-color: black;
-    align-items: left;
+    align-items: center;
+    padding: 10px 20px;
+    gap: 20px;
 }
 .navbar a{
-    display: flex;
+    
     text-decoration: none;
-    background-color: black;
     padding: 0%;
     margin:0px;
     color: rgb(161, 223, 160);
