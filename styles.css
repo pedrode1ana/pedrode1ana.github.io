@@ -1,5 +1,6 @@
 /* Add CSS styles for your web site here and use them in index.html. */
 html, body{
+    scroll-behavior: smooth;
     background: linear-gradient(to right, #b1ecb67a 60%, #b3eab87a 35%);
     margin: 0;
     padding: 0;
